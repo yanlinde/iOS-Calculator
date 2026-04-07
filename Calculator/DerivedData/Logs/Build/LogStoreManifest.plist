@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>9F170658-EF36-402B-A57F-924A075CF776</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F170658-EF36-402B-A57F-924A075CF776.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CalculatorApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CalculatorApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project CalculatorApp with scheme CalculatorApp</string>
+			<key>timeStartedRecording</key>
+			<real>797139360.45328498</real>
+			<key>timeStoppedRecording</key>
+			<real>797139364.08622301</real>
+			<key>title</key>
+			<string>Testing project CalculatorApp with scheme CalculatorApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9F170658-EF36-402B-A57F-924A075CF776</string>
+		</dict>
+		<key>B4822D1D-6DA0-47F4-8E4C-BB24FAFE01D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4822D1D-6DA0-47F4-8E4C-BB24FAFE01D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CalculatorApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CalculatorApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project CalculatorApp with scheme CalculatorApp</string>
+			<key>timeStartedRecording</key>
+			<real>797139430.34707499</real>
+			<key>timeStoppedRecording</key>
+			<real>797139433.15242004</real>
+			<key>title</key>
+			<string>Testing project CalculatorApp with scheme CalculatorApp</string>
+			<key>uniqueIdentifier</key>
+			<string>B4822D1D-6DA0-47F4-8E4C-BB24FAFE01D9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

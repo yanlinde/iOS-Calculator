@@ -1,0 +1,1505 @@
+{
+  "version": "2.9",
+  "children": [
+    {
+      "type": "frame",
+      "id": "XyQYL",
+      "x": 2344,
+      "y": 3405,
+      "name": "大图弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#2a2a2eff",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "5EUNF",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 0,
+          "name": "Main Image Area",
+          "width": "fill_container(402)",
+          "height": 874,
+          "fill": "#2a2a2eff",
+          "layout": "vertical",
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "hd02w",
+              "layoutPosition": "absolute",
+              "x": 0,
+              "y": 137,
+              "name": "Main Image",
+              "metadata": {
+                "type": "unsplash",
+                "username": "ipraudz",
+                "link": "https://unsplash.com/@ipraudz",
+                "author": "I P"
+              },
+              "clip": true,
+              "width": "fill_container(402)",
+              "height": 600,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1767854506369-5ae6ef7df8e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxMDEwMTZ8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "wLWkx",
+      "x": 100,
+      "y": 3405,
+      "name": "首页",
+      "width": 402,
+      "height": 874,
+      "fill": "#FFFFFF",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "EU2mM",
+          "name": "Slogan",
+          "width": "fill_container",
+          "height": 270,
+          "padding": [
+            250,
+            24,
+            16,
+            24
+          ],
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "Fk2nH",
+              "name": "sloganText",
+              "fill": "#D4D4D8",
+              "content": "在海量照片中\n找出你最爱的瞬间",
+              "lineHeight": 1.3,
+              "textAlign": "center",
+              "fontFamily": "Inter",
+              "fontSize": 40,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "QdFP2",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 437,
+          "name": "Text Area",
+          "width": "fill_container(402)",
+          "layout": "vertical",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "rTMUl",
+              "name": "mainText",
+              "fill": "#18181B",
+              "content": "添加照片，开始筛选",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 20,
+              "fontWeight": "700"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "IVAEE",
+          "layoutPosition": "absolute",
+          "x": 27,
+          "y": 497,
+          "name": "Add Button",
+          "width": "fill_container(348)",
+          "height": 56,
+          "fill": "#18181B",
+          "cornerRadius": 24,
+          "gap": 10,
+          "justifyContent": "center",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "icon_font",
+              "id": "0f76b",
+              "name": "plusIcon",
+              "width": 22,
+              "height": 22,
+              "iconFontName": "plus",
+              "iconFontFamily": "lucide",
+              "fill": "#FFFFFF"
+            },
+            {
+              "type": "text",
+              "id": "xd8lk",
+              "name": "btnText",
+              "fill": "#FFFFFF",
+              "content": "添加照片",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "j9A36",
+      "x": -413,
+      "y": 4769,
+      "name": "过渡页",
+      "width": 402,
+      "height": 874,
+      "fill": "#FFFFFF",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "group",
+          "id": "yYVgL",
+          "layoutPosition": "absolute",
+          "x": 69,
+          "y": 387,
+          "children": [
+            {
+              "type": "text",
+              "id": "K5mWT",
+              "x": 68.5,
+              "y": 52,
+              "name": "Progress Count",
+              "fill": "#A1A1AA",
+              "content": "加速处理中，请稍等",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "text",
+              "id": "pcbAC",
+              "x": 87,
+              "y": 0,
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "正在导入",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "frame",
+              "id": "g5y9t",
+              "x": 0,
+              "y": 92,
+              "name": "Progress Background",
+              "width": "fill_container(263)",
+              "height": 8,
+              "fill": "#F4F4F5",
+              "cornerRadius": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "S45h7",
+                  "name": "Progress Fill",
+                  "width": 106,
+                  "height": 8,
+                  "fill": "#18181B",
+                  "cornerRadius": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "IIptD",
+      "x": 624,
+      "y": 3405,
+      "name": "导入进度弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "Y8g3b",
+          "name": "Dialog Card",
+          "width": 327,
+          "height": 174,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 20,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "JW8Qu",
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "正在导入",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "Br7Dn",
+              "name": "Progress Count",
+              "fill": "#A1A1AA",
+              "content": "已处理 7 / 20 张，请稍等",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "uaGd5",
+              "name": "Progress Background",
+              "width": "fill_container",
+              "height": 8,
+              "fill": "#F4F4F5",
+              "cornerRadius": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "RURtp",
+                  "name": "Progress Fill",
+                  "width": 106,
+                  "height": 8,
+                  "fill": "#18181B",
+                  "cornerRadius": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "pjS69",
+      "x": 100,
+      "y": 4769,
+      "name": "过度弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "W9kO2",
+          "name": "Dialog Card",
+          "width": 327,
+          "height": 174,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 20,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "2I3JW",
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "正在导入",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "rmfpl",
+              "name": "Progress Count",
+              "fill": "#A1A1AA",
+              "content": "加速处理中，请稍等",
+              "fontFamily": "Inter",
+              "fontSize": 14,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "iOpx9",
+              "name": "Progress Background",
+              "width": "fill_container",
+              "height": 8,
+              "fill": "#F4F4F5",
+              "cornerRadius": 4,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "uRxDv",
+                  "name": "Progress Fill",
+                  "width": 106,
+                  "height": 8,
+                  "fill": "#18181B",
+                  "cornerRadius": 4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "Wk6Y9",
+      "x": 1760,
+      "y": 3405,
+      "name": "单列视图",
+      "clip": true,
+      "width": 402,
+      "height": 874,
+      "fill": "#2a2a2eff",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "SpWLf",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 56,
+          "name": "Card Area",
+          "width": "fill_container(402)",
+          "height": 721,
+          "layout": "vertical",
+          "gap": 1,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "ygLM1",
+              "name": "Photo Card",
+              "metadata": {
+                "type": "unsplash",
+                "username": "cinquantesix",
+                "link": "https://unsplash.com/@cinquantesix",
+                "author": "Gaétan Meyer"
+              },
+              "clip": true,
+              "width": "fill_container",
+              "height": 480,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1563791877337-6224aa28e6af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTI1Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              }
+            },
+            {
+              "type": "frame",
+              "id": "Dt2w9",
+              "name": "Photo Card 2",
+              "metadata": {
+                "type": "unsplash",
+                "username": "hoianphotographer",
+                "link": "https://unsplash.com/@hoianphotographer",
+                "author": "Hoi An and Da Nang Photographer"
+              },
+              "clip": true,
+              "width": "fill_container",
+              "height": 480,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1765247839915-4de6538fcd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTE4NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              }
+            },
+            {
+              "type": "frame",
+              "id": "ie7FB",
+              "name": "Photo Card 3",
+              "metadata": {
+                "type": "unsplash",
+                "username": "drewfarwell",
+                "link": "https://unsplash.com/@drewfarwell",
+                "author": "Drew Farwell"
+              },
+              "clip": true,
+              "width": "fill_container",
+              "height": 480,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "https://images.unsplash.com/photo-1520568569326-b4aa6894559a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTE4NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                "mode": "fill"
+              }
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "ZAByU",
+          "name": "Navbar",
+          "width": "fill_container",
+          "height": 56,
+          "fill": "#050505",
+          "stroke": {
+            "align": "inside",
+            "thickness": {
+              "bottom": 1
+            }
+          },
+          "padding": [
+            6,
+            12
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "bFWd8",
+              "layoutPosition": "absolute",
+              "x": 12,
+              "y": 12,
+              "name": "Left Toggle Wrap",
+              "width": 80,
+              "height": 32,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "T76zu",
+                  "name": "View Toggle",
+                  "width": 80,
+                  "height": 32,
+                  "fill": "#18181B",
+                  "cornerRadius": 16,
+                  "gap": 2,
+                  "padding": 2,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "yOg64",
+                      "name": "Double Column Inactive",
+                      "width": 36,
+                      "height": 28,
+                      "fill": "#444444ff",
+                      "cornerRadius": 14,
+                      "effect": {
+                        "type": "shadow",
+                        "shadowType": "outer",
+                        "color": "#FFFFFF12",
+                        "offset": {
+                          "x": 0,
+                          "y": 1
+                        },
+                        "blur": 6
+                      },
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "reDUC",
+                          "layoutPosition": "absolute",
+                          "x": 10,
+                          "y": 5,
+                          "name": "doubleIcon",
+                          "width": 16,
+                          "height": 16,
+                          "iconFontName": "columns-2",
+                          "iconFontFamily": "lucide",
+                          "fill": "#ffffffff"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "oSQbN",
+                      "layoutPosition": "absolute",
+                      "x": 42,
+                      "y": 2,
+                      "name": "Single Column Active",
+                      "width": 36,
+                      "height": 28,
+                      "fill": "#18181B",
+                      "cornerRadius": 14,
+                      "effect": {
+                        "type": "shadow",
+                        "shadowType": "outer",
+                        "enabled": false,
+                        "color": "#000000"
+                      },
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "joVYI",
+                          "layoutPosition": "absolute",
+                          "x": 10,
+                          "y": 5,
+                          "name": "singleIcon",
+                          "width": 16,
+                          "height": 16,
+                          "iconFontName": "rectangle-horizontal",
+                          "iconFontFamily": "lucide",
+                          "fill": "#A1A1AA"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "icon_font",
+              "id": "JhITH",
+              "layoutPosition": "absolute",
+              "x": 366,
+              "y": 17,
+              "width": 24,
+              "height": 24,
+              "iconFontName": "menu",
+              "iconFontFamily": "lucide",
+              "fill": "#ffffffff"
+            },
+            {
+              "type": "frame",
+              "id": "FKDMO",
+              "layoutPosition": "absolute",
+              "x": 142,
+              "y": 18,
+              "name": "Left Hint",
+              "gap": 6,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "nx09m",
+                  "name": "Left Hint Text",
+                  "fill": "#A1A1AA",
+                  "content": "左划淘汰，右划撤销",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "UXRyv",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 808,
+          "name": "底部操作栏",
+          "width": 402,
+          "height": 66,
+          "fill": "#050505ff",
+          "gap": 12,
+          "padding": [
+            8,
+            16
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "f1Hyh",
+              "name": "删除按钮",
+              "width": "fill_container",
+              "height": 40,
+              "fill": "#2a2a2eff",
+              "cornerRadius": 24,
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "3w0yf",
+                  "fill": "#FFFFFF",
+                  "content": "已淘汰5 清除",
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "semibold"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "9hosy",
+              "name": "导出按钮",
+              "width": "fill_container",
+              "height": 40,
+              "fill": "#132a58ff",
+              "cornerRadius": 24,
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "6s6qR",
+                  "fill": "#FFFFFF",
+                  "content": "剩余122 导出",
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "semibold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "tw61J",
+      "x": 1158,
+      "y": 3405,
+      "name": "双列视图",
+      "clip": true,
+      "width": 402,
+      "height": 874,
+      "fill": "#2a2a2eff",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "esIdd",
+          "name": "Navbar",
+          "width": "fill_container",
+          "height": 56,
+          "fill": "#050505",
+          "stroke": {
+            "align": "inside",
+            "thickness": {
+              "bottom": 1
+            }
+          },
+          "padding": [
+            6,
+            12
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "dajZC",
+              "layoutPosition": "absolute",
+              "x": 12,
+              "y": 12,
+              "name": "Left Toggle Wrap",
+              "width": 80,
+              "height": 32,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "KsaCT",
+                  "name": "View Toggle",
+                  "width": 80,
+                  "height": 32,
+                  "fill": "#18181B",
+                  "cornerRadius": 16,
+                  "gap": 2,
+                  "padding": 2,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "69ued",
+                      "name": "Double Column Inactive",
+                      "width": 36,
+                      "height": 28,
+                      "fill": "#444444ff",
+                      "cornerRadius": 14,
+                      "effect": {
+                        "type": "shadow",
+                        "shadowType": "outer",
+                        "color": "#FFFFFF12",
+                        "offset": {
+                          "x": 0,
+                          "y": 1
+                        },
+                        "blur": 6
+                      },
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "Dq3Fs",
+                          "layoutPosition": "absolute",
+                          "x": 10,
+                          "y": 5,
+                          "name": "doubleIcon",
+                          "width": 16,
+                          "height": 16,
+                          "iconFontName": "columns-2",
+                          "iconFontFamily": "lucide",
+                          "fill": "#ffffffff"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "pjVzX",
+                      "layoutPosition": "absolute",
+                      "x": 42,
+                      "y": 2,
+                      "name": "Single Column Active",
+                      "width": 36,
+                      "height": 28,
+                      "fill": "#18181B",
+                      "cornerRadius": 14,
+                      "effect": {
+                        "type": "shadow",
+                        "shadowType": "outer",
+                        "enabled": false,
+                        "color": "#000000"
+                      },
+                      "justifyContent": "center",
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "icon_font",
+                          "id": "cSYmf",
+                          "layoutPosition": "absolute",
+                          "x": 10,
+                          "y": 5,
+                          "name": "singleIcon",
+                          "width": 16,
+                          "height": 16,
+                          "iconFontName": "rectangle-horizontal",
+                          "iconFontFamily": "lucide",
+                          "fill": "#A1A1AA"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "icon_font",
+              "id": "b2kLn",
+              "layoutPosition": "absolute",
+              "x": 366,
+              "y": 17,
+              "width": 24,
+              "height": 24,
+              "iconFontName": "menu",
+              "iconFontFamily": "lucide",
+              "fill": "#ffffffff"
+            },
+            {
+              "type": "frame",
+              "id": "DyZbS",
+              "layoutPosition": "absolute",
+              "x": 142,
+              "y": 18,
+              "name": "Left Hint",
+              "gap": 6,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "pC1xb",
+                  "name": "Left Hint Text",
+                  "fill": "#A1A1AA",
+                  "content": "左划淘汰，右划撤销",
+                  "fontFamily": "Inter",
+                  "fontSize": 13,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "jsENH",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 56,
+          "name": "Card Area Double",
+          "width": "fill_container(402)",
+          "height": 728,
+          "fill": "#2a2a2eff",
+          "layout": "vertical",
+          "gap": 1,
+          "children": [
+            {
+              "type": "frame",
+              "id": "ARyKH",
+              "name": "Photo Row 1",
+              "width": "fill_container",
+              "height": 300,
+              "gap": 1,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "EUdT5",
+                  "name": "Photo Card",
+                  "clip": true,
+                  "width": 201,
+                  "height": 134,
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "https://images.unsplash.com/photo-1563791877337-6224aa28e6af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTI1Nzl8&ixlib=rb-4.1.0&q=80&w=1080",
+                      "mode": "fit"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "cegR8",
+                  "name": "Photo Card 2",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "https://images.unsplash.com/photo-1765247839915-4de6538fcd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTE4NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                      "mode": "fit"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "5lYSj",
+              "name": "Photo Row 2",
+              "width": "fill_container",
+              "height": 268,
+              "gap": 1,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "OvHWx",
+                  "name": "Photo Card 4",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "./images/generated-1774169688955.png",
+                      "mode": "fit"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "7sPR6",
+                  "name": "Photo Card 3",
+                  "clip": true,
+                  "width": 201,
+                  "height": 140,
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "https://images.unsplash.com/photo-1520568569326-b4aa6894559a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NDM0ODN8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTE4NDl8&ixlib=rb-4.1.0&q=80&w=1080",
+                      "mode": "fit"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "NKAt4",
+              "name": "Photo Row 2",
+              "width": "fill_container",
+              "height": 134,
+              "gap": 1,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "EKLQ9",
+                  "name": "Photo Card 3",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "DSC00344.jpg",
+                      "mode": "fit"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "s8ywF",
+                  "name": "Photo Card 4",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "DSC00780.jpg",
+                      "mode": "fit"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "yNOFb",
+              "name": "Photo Row 2",
+              "width": "fill_container",
+              "height": 134,
+              "gap": 1,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "j3ome",
+                  "name": "Photo Card 3",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "DSC00344.jpg",
+                      "mode": "stretch"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "bEHfm",
+                  "name": "Photo Card 4",
+                  "clip": true,
+                  "width": "fill_container",
+                  "height": "fill_container",
+                  "fill": [
+                    "#2A2A2E",
+                    {
+                      "type": "image",
+                      "enabled": true,
+                      "url": "DSC00780.jpg",
+                      "mode": "fit"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "AGCit",
+          "layoutPosition": "absolute",
+          "x": 0,
+          "y": 808,
+          "name": "底部操作栏",
+          "width": 402,
+          "height": 66,
+          "fill": "#050505ff",
+          "gap": 12,
+          "padding": [
+            8,
+            16
+          ],
+          "justifyContent": "space_between",
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "frame",
+              "id": "j3VBQ",
+              "name": "删除按钮",
+              "width": "fill_container",
+              "height": 40,
+              "fill": "#2a2a2eff",
+              "cornerRadius": 24,
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "uF6DV",
+                  "fill": "#FFFFFF",
+                  "content": "已淘汰5 清除",
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "semibold"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "CPExw",
+              "name": "导出按钮",
+              "width": "fill_container",
+              "height": 40,
+              "fill": "#132a58ff",
+              "cornerRadius": 24,
+              "gap": 4,
+              "justifyContent": "center",
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "text",
+                  "id": "ad169",
+                  "fill": "#FFFFFF",
+                  "content": "剩余122 导出",
+                  "fontFamily": "Inter",
+                  "fontSize": 15,
+                  "fontWeight": "semibold"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "O3bVq",
+      "x": 1158,
+      "y": 4769,
+      "name": "全部清空确认弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "m3sr4",
+          "name": "Dialog Card",
+          "width": 327,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 24,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "UhR0t",
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "提示",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "a6UST",
+              "name": "Body",
+              "fill": "#18181B",
+              "content": "全部清空？此操作不可撤销",
+              "textAlign": "center",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "nXSJj",
+              "name": "Button Row",
+              "width": "fill_container",
+              "gap": 16,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "whFWA",
+                  "name": "Cancel Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#F4F4F5",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "1H7Oj",
+                      "name": "Cancel Text",
+                      "fill": "#18181B",
+                      "content": "取消",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "aLe1S",
+                  "name": "Confirm Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#18181B",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Xlnzf",
+                      "name": "Confirm Text",
+                      "fill": "#FFFFFF",
+                      "content": "确定",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "poib0",
+      "x": 1760,
+      "y": 4769,
+      "name": "清除确认弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "8j2fz",
+          "name": "Dialog Card",
+          "width": 327,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 24,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "A2jHW",
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "提示",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "kJ7QO",
+              "name": "Body",
+              "fill": "#18181B",
+              "content": "清除6张照片？",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "qXtV3",
+              "name": "Button Row",
+              "width": "fill_container",
+              "gap": 16,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "hpYnA",
+                  "name": "Cancel Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#F4F4F5",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "hxrQK",
+                      "name": "Cancel Text",
+                      "fill": "#18181B",
+                      "content": "取消",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "1gRp1",
+                  "name": "Confirm Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#18181B",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "HoRrM",
+                      "name": "Confirm Text",
+                      "fill": "#FFFFFF",
+                      "content": "确定",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "3OlHp",
+      "x": 2344,
+      "y": 4769,
+      "name": "导出确认弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "OjT4H",
+          "name": "Dialog Card",
+          "width": 327,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 24,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "ngroT",
+              "name": "Title",
+              "fill": "#18181B",
+              "content": "提示",
+              "fontFamily": "Plus Jakarta Sans",
+              "fontSize": 22,
+              "fontWeight": "700"
+            },
+            {
+              "type": "text",
+              "id": "cuwjk",
+              "name": "Body",
+              "fill": "#18181B",
+              "content": "导出6张照片？",
+              "fontFamily": "Inter",
+              "fontSize": 16,
+              "fontWeight": "normal"
+            },
+            {
+              "type": "frame",
+              "id": "UZ2pn",
+              "name": "Button Row",
+              "width": "fill_container",
+              "gap": 16,
+              "justifyContent": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "jmvup",
+                  "name": "Cancel Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#F4F4F5",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "OuSWT",
+                      "name": "Cancel Text",
+                      "fill": "#18181B",
+                      "content": "取消",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "QzQ0K",
+                  "name": "Confirm Button",
+                  "width": 120,
+                  "height": 48,
+                  "fill": "#18181B",
+                  "cornerRadius": 24,
+                  "layout": "vertical",
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "xjpIm",
+                      "name": "Confirm Text",
+                      "fill": "#FFFFFF",
+                      "content": "确定",
+                      "fontFamily": "Plus Jakarta Sans",
+                      "fontSize": 16,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "y4kHE",
+      "x": 624,
+      "y": 4769,
+      "name": "汉堡菜单弹窗",
+      "width": 402,
+      "height": 874,
+      "fill": "#000000B3",
+      "layout": "vertical",
+      "justifyContent": "center",
+      "alignItems": "center",
+      "children": [
+        {
+          "type": "frame",
+          "id": "V7Ngh",
+          "name": "Dialog Card",
+          "width": 327,
+          "height": 159,
+          "fill": "#FFFFFF",
+          "cornerRadius": 20,
+          "layout": "vertical",
+          "gap": 24,
+          "padding": 32,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "group",
+              "id": "QB3w5",
+              "layoutPosition": "absolute",
+              "x": 83.5,
+              "y": 36.5,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "WHjF3",
+                  "layoutPosition": "absolute",
+                  "x": 47,
+                  "y": 0,
+                  "name": "Body",
+                  "fill": "#18181B",
+                  "content": "添加照片",
+                  "textAlign": "center",
+                  "fontFamily": "Inter",
+                  "fontSize": 16,
+                  "fontWeight": "normal"
+                },
+                {
+                  "type": "rectangle",
+                  "id": "qLpEB",
+                  "layoutPosition": "absolute",
+                  "x": 0,
+                  "y": 42,
+                  "fill": "#ebebebff",
+                  "width": 160,
+                  "height": 1
+                },
+                {
+                  "type": "text",
+                  "id": "y4jxy",
+                  "layoutPosition": "absolute",
+                  "x": 47,
+                  "y": 63,
+                  "name": "Body",
+                  "fill": "#18181B",
+                  "content": "全部清空",
+                  "textAlign": "center",
+                  "fontFamily": "Plus Jakarta Sans",
+                  "fontSize": 16,
+                  "fontWeight": "normal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "" : {
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp-primary.dia",
+    "emit-module-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp-primary-emit-module.dia",
+    "pch" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp-primary.swiftdeps"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/App/CalculatorApp.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorApp~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Data/History/CalculatorHistoryStore.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryStore~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Data/History/InMemoryCalculatorHistoryStore.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/InMemoryCalculatorHistoryStore~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Data/History/StoredCalculationHistoryItem.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/StoredCalculationHistoryItem~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Data/History/SwiftDataCalculatorHistoryStore.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/SwiftDataCalculatorHistoryStore~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorEngine.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorEngine~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorError.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorError~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorFormatter.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorFormatter~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorHistoryItem.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorHistoryItem~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorOperandTransformer.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperandTransformer~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorOperator.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorOperator~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Domain/Calculator/CalculatorToken.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorToken~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Features/Calculator/CalculatorScreen.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorScreen~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Features/Calculator/CalculatorViewModel.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorViewModel~partial.swiftmodule"
+  },
+  "/Users/xiaoyude/Documents/AiProject/calculator-codex/CalculatorApp/Shared/Theme/CalculatorTheme.swift" : {
+    "const-values" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.swiftconstvalues",
+    "dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.d",
+    "diagnostics" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.dia",
+    "index-unit-output-path" : "/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.o",
+    "llvm-bc" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.bc",
+    "object" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.o",
+    "swift-dependencies" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme.swiftdeps",
+    "swiftmodule" : "/Users/xiaoyude/Documents/AiProject/calculator-codex/DerivedData/Build/Intermediates.noindex/CalculatorApp.build/Debug-iphonesimulator/CalculatorApp.build/Objects-normal/arm64/CalculatorTheme~partial.swiftmodule"
+  }
+}
